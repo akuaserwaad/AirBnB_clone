@@ -1,13 +1,5 @@
 0x00. AirBnB clone - The console
 
-0x00.Table of contents
-•	0x01 Introduction
-•	0x02 Environment
-•	0x03 Installation
-•	0x04 Testing
-•	0x05 Usage
-•	0x06 Authors
-
 0x01 Introduction
 
 Team project to build a clone of AirBnB.
@@ -25,6 +17,7 @@ The console will perform the following tasks:
 Storage
 
 All the classes are handled by the Storage engine in the FileStorage Class.
+
 0x02 Environment
       
 •	Style guidelines:

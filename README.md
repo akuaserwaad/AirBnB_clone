@@ -150,6 +150,7 @@ show <class> <id>
 (hbnb)
 
 • Destroy
+
 Deletes an instance of a given class with a given ID. Update the file.json
 
 (hbnb) create User
@@ -160,6 +161,7 @@ Deletes an instance of a given class with a given ID. Update the file.json
 (hbnb)
 
 • All
+
 Prints all string representation of all instances of a given class. If no class is passed, all classes are printed.
 
 (hbnb) create BaseModel
@@ -169,6 +171,7 @@ e45ddda9-eb80-4858-99a9-226d4f08a629
 ["[BaseMode
 
 • Count
+
 Prints the number of instances of a given class.
 
 (hbnb) create City
@@ -180,6 +183,7 @@ e952b772-80a5-41e9-b728-6bc4dc5c21b4
 (hbnb)
 
 • Update
+
 Updates an instance based on the class name, id, and kwargs passed. Update the file.json
 
 (hbnb) create User
@@ -191,5 +195,4 @@ Updates an instance based on the class name, id, and kwargs passed. Update the f
 
 Authors
 # Obed Kwartekwei Quartey
-
 # Akua Serwaa Danquah
